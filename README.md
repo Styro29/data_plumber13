@@ -9,6 +9,12 @@ airflow, 카프카, 스파크, hdfs, postgres 를 이용하여 실시간 데이�
 - 에어플로우, 카프카, 스파크, 하둡 hdfs, postgresql 등을 사용하여 실시간 데이터 파이프라인을 구축하는 것을 목적으로 프로젝트를 진행한다. 
 - 데이터 시각화는 Streamlit을 통해서 수행 및 배포한다.
 
+### 시연 영상
+[유튜브 영상 링크](https://www.youtube.com/watch?v=0XohstNa1UE)
+
+### 최종 Dashboard
+[Streamlit Dashboard 링크](https://v2xdashboard.streamlit.app/)
+
 ### 파이프라인 아키텍처
 
 ![Architecture diagram](https://github.com/user-attachments/assets/b2588285-1a27-4ed2-8bbd-e9bc3e1891c6)
